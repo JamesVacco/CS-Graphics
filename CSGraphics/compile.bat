@@ -1,0 +1,1 @@
+javac -cp ".;c:\javacv\opencv.jar;c:\javacv\opencv-windows-x86_64.jar;c:\javacv\javacpp.jar;c:\javacv\ffmpeg.jar;c:\javacv\ffmpeg-windows-x86_64.jar;c:\javacv\javacv.jar;c:\javacv\javacv-platform.jar" %1
